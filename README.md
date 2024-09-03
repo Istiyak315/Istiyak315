@@ -58,7 +58,6 @@ I’m **Istiyak Shaikh**, a passionate **Software Development Engineer in Test (
 ### Certifications
 
 - **Certified Web Developer Tester** – Masai School
-- **ISTQB Certified Tester (Foundation Level)**
 - **Certified Performance Tester with JMeter**
 - **Certified Security Tester with Burp Suite**
 
